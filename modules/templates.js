@@ -4,3 +4,10 @@ function greet (name) {
 }
 
 greet('Wes');
+
+var string1 = 'This is line 1\n\
+    This is line 2';
+
+console.log(string1);
+
+console.log('--------------------------------------------------------');
